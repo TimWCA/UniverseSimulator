@@ -18,5 +18,5 @@
 
 Продукт распространяется по [лизензии MIT](LICENSE.txt).
 
-Текстуры звёзд, планет и небесной сферы взяты с сайта [COSMOS-ONLINE.RU](https://cosmos-online.ru/textures).
+Текстуры звёзд, планет и небесной сферы взяты с сайта [COSMOS-ONLINE.RU](https://cosmos-online.ru/textures).  
 Автор иконок: [Freepik](https://www.freepik.com "Freepik") from [www.flaticon.com](https://www.flaticon.com/ru/ "Flaticon")
